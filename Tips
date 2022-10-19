@@ -1,0 +1,5 @@
+This program need tkinter, turtle, time modules in python
+Save all gif images in same folder that contains the python program
+For player movement use "arrow" keys and for pause the game use "p" button
+We can change the color of the player while playing the game 
+We can use the lock button to refresh the game if there occurs any disturbance in game
