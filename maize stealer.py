@@ -110,7 +110,7 @@ def goleft():
     
         a.direction="left"
 def stop():
-    a.direction="stopp"
+    a.direction="stop"
 
 def move():
     if (a.direction=="down"):
