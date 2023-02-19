@@ -119,7 +119,7 @@ def move():
     if (a.direction=="up"):
         y=a.ycor()
         a.sety(y+5)
-    if(a.direction=="stopp"):
+    if(a.direction=="stop"):
         y=a.ycor()
         a.sety(y)
     
